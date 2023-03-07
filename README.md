@@ -70,29 +70,6 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a0
 
 
-## Install on Termux
-```
- pkg update
-
- pkg upgrade
-
- pkg install python
-
- pkg install python2
-
- pip2 install requests 
-
- pip2 install mechanize
-
- pip2 install bs4
- 
- rm -rf GREEN
-
- git clone https://github.com/SHAKIBUR-404/GREEN
-
- cd GREEN
-
- python Shakib.py
 ```
 
 ☑️ CLICK This Logo 👉 <a href="https://fb.com/Unavailable.this.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
